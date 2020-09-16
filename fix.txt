@@ -1,0 +1,3 @@
+2/23/20
+
+fixed Attack() bug where this.isAttacking was compared to true rather than set to true.
